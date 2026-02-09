@@ -18,8 +18,8 @@ Therapy Platform is an online mental health platform designed to improve access 
 ## Tech Stack
 - **Node.js** – JavaScript runtime for server-side development  
 - **Express.js** – Backend framework for REST API and routing  
-- **MongoDB** – NoSQL database (hosted on MongoDB Atlas)  
-- **Mongoose** – ODM for MongoDB, handles schemas and database queries  
+- **Postgre** – SQL database  
+- **Prisma** – ORM for Postgre, handles schemas and database queries  
 - **JWT (JSON Web Tokens)** – Authentication and secure route access  
 - **Nodemon** – Automatically restarts server during development  
 - **Postman** – Recommended for testing API endpoints  
